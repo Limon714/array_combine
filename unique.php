@@ -6,3 +6,4 @@ $a1 = array(" a " => "red", " t " => "blue", " c " => "red",);
  echo "<pre>";
  print_r($new);
  echo "</pre>";
+?>
