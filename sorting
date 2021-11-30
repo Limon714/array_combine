@@ -1,0 +1,17 @@
+<?php
+
+function square ($n, $g){
+    return $n. " " .$g;
+}
+// $group = [34, 35, 37, 38]; 
+$group2 = ["you", "are", "good", "boy"];
+$group = ["img3.png", "Img4.png", "img1.png", "img2.png"];
+
+
+ natcasesort( $group);
+
+echo "<pre>";
+print_r($group);
+echo "</pre>";
+
+?>
